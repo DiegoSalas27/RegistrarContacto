@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Registrar Contacto</string>
+    <string name="nameHint">Nombre completo</string>
+    <string name="fechaHint">fecha de nacimiento</string>
+    <string name="telefonoHint">Teléfono</string>
+    <string name="eMailHint">Email</string>
+    <string name="decripcionHint">Descripción contacto</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="atras">Atrás</string>
+    <string name="picDate">Pic date</string>
+    <string name="pNombre">nombre</string>
+    <string name="pFecha">fecha</string>
+    <string name="pTelefono">telefono</string>
+    <string name="pEmail">eMail</string>
+    <string name="pDescripcion">descripcion</string>
+    <string name="nNombre">nNombre</string>
+    <string name="nFecha">nFecha</string>
+    <string name="nTelefono">nTelefono</string>
+    <string name="neMail">neMail</string>
+    <string name="nDescripcion">nDescripcion</string>
+    <string name="editarDatos">Editar Datos</string>
+    <string name="confimarDatos">Confirmar Datos</string>
+    <string name="hola">Buena persona</string>
+    <string name="dominicsc2hs_gmailc_com">dominicsc2hs@gmailc.com</string>
+    <string name="_959363398">959363398</string>
+    <string name="aug_8_1991">Aug 8, 1991</string>
+    <string name="diego_salas">Diego Salas</string>
+    <string name="actualizar">actualizar</string>
+</resources>
